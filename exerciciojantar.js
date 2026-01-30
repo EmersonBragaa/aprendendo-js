@@ -11,7 +11,7 @@ let valorjantar = 80;
 let taxagarçom = 10;
 let total = 0;
 
-total = 80 + ((taxagarçom / 100) * 80);
+total = valorjantar + ((taxagarçom / 100) * valorjantar);
 
 //Gambiarra
 //console.log ("Valor do jantar: R$" + valorjantar + ",00") 
@@ -22,7 +22,7 @@ total = 80 + ((taxagarçom / 100) * 80);
 console.log(`Valor do jantar: R$${valorjantar},00`);
 
 //Porcentagem do garçom
-console.log(`Taxa do Garçom: R$${(taxagarçom / 100) * 80},00`);
+console.log(`Taxa do Garçom: R$${(taxagarçom / 100) * valorjantar},00`);
 
 // O total a pagar
-console.log(`Total a Pagar: R$${total},00`)
+console.log(`Total a Pagar: R$${total},00`);
