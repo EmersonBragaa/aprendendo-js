@@ -8,7 +8,9 @@ function simpleArraySum(ar) {
       //aqui isso significa que o index irá receber ele mesmo + 1, ou seja, se era 0 vira 1, 1 vira 2, 2 vira 3 etc...
       // é somente o contador andando basicamente, sem isso o loop travaria no 0.
        index += 1)
-       //agora tudo que está dentro dessa chave é o que vai acontecer quando o loop rodar. Aqui ele pega o valor que tem em soma, pega o valor da posição atual do array, junta os dois e guarda de novo em soma, o soma = 0 é como se fosse o "total" da conta
+       //agora tudo que está dentro dessa chave é o que vai acontecer quando o loop rodar. Aqui ele pega o valor
+       //  que tem em soma, pega o valor da posição atual do array, junta os dois e guarda de novo em soma, o soma = 0
+       //  é como se fosse o "total" da conta
        {
       soma = soma + ar[index];
     }
