@@ -15,6 +15,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | :--- | :--- |
 | [`appleAndOrange.js`](./desafiosJS/appleAndOrange.js) | Contagem de frutas dentro de um intervalo. |
 | [`arraysum.js`](./desafiosJS/arraysum.js) | Soma de todos os elementos de um array. |
+| [`bigSorting.js`](./desafiosJS/bigSorting.js) | Ordenação de números gigantes utilizando comparação lexicográfica e lógica de `length`. |
 | [`billDivision.js`](./desafiosJS/billDivision.js) | Verificação de divisão de conta de restaurante. |
 | [`birthdayCakecandle.js`](./desafiosJS/birthdayCakecandle.js) | Contagem de elementos de valor máximo (velas). |
 | [`breakingTheRecords.js`](./desafiosJS/breakingTheRecords.js) | Rastreamento de recordes de pontuação. |
