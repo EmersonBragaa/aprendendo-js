@@ -53,6 +53,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | [`testando.js`](./desafiosJS/testando.js) | Condicionais por faixa etária. |
 | [`timeConversion.js`](./desafiosJS/timeConversion.js) | Conversão 12h para 24h. |
 | [`timeInWords.js`](./desafiosJS/timeInWords.js) | Conversão de tempo em texto com foco em precisão e lógica de strings. |
+| [`verificadorParOuImpar.js`](./desafiosJS/verificadorParOuImpar.js) | Verificação de paridade (ternário). |
 | [`veryBigSum.js`](./desafiosJS/veryBigSum.js) | Soma de números inteiros grandes. |
 
 ---
