@@ -41,6 +41,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | [`magicSquare.js`](./desafiosJS/magicSquare.js) | Otimização para "Quadrado Mágico". |
 | [`MigratoryBirds.js`](./desafiosJS/MigratoryBirds.js) | Frequência de tipos de pássaros. |
 | [`minimunDistances.js`](./desafiosJS/minimunDistances.js) | Algoritmo para encontrar a menor distância entre elementos idênticos em um array. |
+| [`morganAndAString.js`](./desafiosJS/morganAndAString.js) | Desafio Nível Hard: Manipulação avançada de strings e otimização com **Generators** (`function*`). |
 | [`nearlySimilarRectangles.js`](./desafiosJS/nearlySimilarRectangles.js) | Identificação de retângulos similares através da proporção entre seus lados. |
 | [`notas.js`](./desafiosJS/notas.js) | Verificação de média e aprovação. |
 | [`numberLineJumps.js`](./desafiosJS/numberLineJumps.js) | Encontro de objetos em movimento (Kangaroo). |
