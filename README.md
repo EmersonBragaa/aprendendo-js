@@ -29,6 +29,7 @@ Todos os exercícios estão contidos dentro da pasta `/desafiosJS`.
 | [`dayOfTheProgrammer.js`](./desafiosJS/dayOfTheProgrammer.js) | Cálculo do dia do programador (ano bissexto). |
 | [`diagonalDiference.js`](./desafiosJS/diagonalDiference.js) | Diferença absoluta entre diagonais de matriz. |
 | [`divisibleSumPairs.js`](./desafiosJS/divisibleSumPairs.js) | Pares com soma divisível por k. |
+| [`eletronicsShop.js`](./desafiosJS/eletronicsShop.js) | Algoritmo de busca da combinação máxima dentro de um orçamento limitado. |
 | [`ENADE21.js`](./desafiosJS/ENADE21.js) | Lógica baseada em questão do ENADE. |
 | [`encryption.js`](./desafiosJS/encryption.js) | Criptografia baseada em grade quadrada. |
 | [`exerciciojantar.js`](./desafiosJS/exerciciojantar.js) | Cálculo de rateio de jantar. |
